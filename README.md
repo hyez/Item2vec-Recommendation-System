@@ -1,6 +1,6 @@
 # Item2Vec
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/scikit-daisy) [![Version](https://img.shields.io/badge/version-v1.0.0-orange)](https://github.com/HYEZ/Item2vec-Recommendation-System) ![GitHub repo size](https://img.shields.io/github/repo-size/HYEZ/Item2vec-Recommendation-System) ![GitHub](https://img.shields.io/github/license/HYEZ/Item2vec-Recommendation-System)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/scikit-daisy) [![Version](https://img.shields.io/badge/version-v1.0.0-orange)](https://github.com/HYEZ/Item2vec-Recommendation-System) ![GitHub repo size](https://img.shields.io/github/repo-size/HYEZ/Item2vec-Recommendation-System)
 
 
 ## Overview
